@@ -1,4 +1,4 @@
-# Telegram Shill Bot & Auto Forward Bot
+# Telegram Shill Bot & Auto Forward Bot 2026
 
 ## 🚨 CONTACT & ACCESS (IMPORTANT)
 
